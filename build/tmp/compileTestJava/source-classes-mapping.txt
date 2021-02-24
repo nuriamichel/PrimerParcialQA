@@ -1,0 +1,10 @@
+filaATest/p1Test/Ej1UtilsNumerosTest.java
+ filaATest.p1Test.Ej1UtilsNumerosTest
+filaATest/p3Test/Ej3UtilsTest.java
+ filaATest.p3Test.Ej3UtilsTest
+filaATest/p2Test/Ej2NotasTest.java
+ filaATest.p2Test.Ej2NotasTest
+filaATest/p4Test/CambioMonedaTest.java
+ filaATest.p4Test.CambioMonedaTest
+filaATest/p6/TestSuite.java
+ filaATest.p6.TestSuite

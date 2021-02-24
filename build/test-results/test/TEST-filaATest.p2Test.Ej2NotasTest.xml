@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="filaATest.p2Test.Ej2NotasTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2021-02-24T13:18:09" hostname="DESKTOP-JQR5GBU" time="0.026">
+  <properties/>
+  <testcase name="verify_nota_final[0]" classname="filaATest.p2Test.Ej2NotasTest" time="0.01"/>
+  <testcase name="verify_nota_final[1]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[2]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[3]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[4]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[5]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[6]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[7]" classname="filaATest.p2Test.Ej2NotasTest" time="0.001"/>
+  <testcase name="verify_nota_final[8]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[9]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[10]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[11]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[12]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[13]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[14]" classname="filaATest.p2Test.Ej2NotasTest" time="0.001"/>
+  <testcase name="verify_nota_final[15]" classname="filaATest.p2Test.Ej2NotasTest" time="0.002"/>
+  <testcase name="verify_nota_final[16]" classname="filaATest.p2Test.Ej2NotasTest" time="0.001"/>
+  <testcase name="verify_nota_final[17]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[18]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[19]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[20]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[21]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[22]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[23]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[24]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <testcase name="verify_nota_final[25]" classname="filaATest.p2Test.Ej2NotasTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
